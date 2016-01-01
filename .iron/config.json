@@ -1,0 +1,27 @@
+{
+  "engines": {
+    "html": "html",
+    "js": "js",
+    "css": "css"
+  },
+
+  "template": {
+    "html": "true",
+    "js": "true",
+    "css": "true"
+  },
+
+  "route": {
+    "controller": "true",
+    "template": "true"
+  },
+
+  "generator": {
+    "comments": "true"
+  },
+
+  "mup": {
+    "version": "mup",
+    "environment": "~/Copy/apps/deploy-zauggstudios"
+  }
+}
